@@ -1,0 +1,10 @@
+country;measure_type;product_scope;start_date;end_date;status;detail;source_url
+India;Export ban;All sugar;01/10/2023;30/09/2025;Active/extended within window;National export ban to secure domestic supply & ethanol.;https://www.reuters.com/world/india/india-extend-sugar-export-ban-boost-local-supplies-ethanol-output-sources-say-2024-09-06/
+India;Quota;All sugar;19/01/2025;30/09/2025;Active within window;Allowance ~1 MMT for the season under restrictions.;https://www.reuters.com/markets/commodities/india-set-allow-1-million-tons-sugar-exports-this-year-2025-01-19/
+India;Quota/exception;Pharma-grade sugar;01/07/2025;30/06/2026;Active (partly outside window);Up to 25,000 t/y under restricted category.;https://economictimes.indiatimes.com/news/economy/foreign-trade/centre-greenlights-export-of-25000-tonnes-pharma-grade-sugar/articleshow/121916364.cms
+Thailand;Temporary restriction;All sugar;02/11/2023;14/11/2023;Ended;Short-lived export curb;
+Pakistan;Conditional quota;All sugar;01/06/2024;31/10/2024;Ended?;Staged exports (150k + 100k + 40k G2G);
+Russia;Export ban;White & raw sugar;15/03/2022;31/08/2022;Ended;Decree N361;
+Russia;Export ban;All sugar;03/05/2024;31/08/2024;Ended;Ban outside EAEU;
+Egypt;Export ban;All sugar;01/04/2023;15/10/2025;Active (rolling extensions);Ban renewed multiple times into 2025.;https://apps.fas.usda.gov/newgainapi/api/Report/DownloadReportByFileName?fileName=Sugar+Annual_Cairo_Egypt_EG2025-0015.pdf
+European Union;Quota regime (ended);Beet sugar;01/10/1968;30/09/2017;Ended;End of EU sugar quotas on 1 Oct 2017 (CAP reform).;https://europa.eu/rapid/press-release_IP-17-3487_en.htm
